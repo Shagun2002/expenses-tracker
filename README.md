@@ -1,6 +1,6 @@
 # Expense Tracker 
 
-Expense Tracker is a react web app.
+Expense Tracking application is a react web app that employs React with Hooks.
 
 #### Technologies used in the project:
 
@@ -11,7 +11,7 @@ Expense Tracker is a react web app.
 
 - NodeJS
 - VS Code
---
+
 
 ## Features :
 
@@ -20,7 +20,6 @@ Expense Tracker is a react web app.
 - search their expenses accordingly
 - view how much they've spent year-wise
 
----
 
 ## Instructions
 
@@ -31,11 +30,12 @@ $ git clone https://github.com/Shagun2002/expenses-tracker.git
 --
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 
-```bash
+
 ###  npm install 
-```
+
 
 Run it
-```bash
+
 ###  npm start 
-```
+
+---
