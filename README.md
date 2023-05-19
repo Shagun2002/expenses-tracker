@@ -6,7 +6,6 @@ Expense Tracker is a react web app.
 
 - React.js
 - CSS
----
 
 ## Software Required :
 
@@ -33,10 +32,10 @@ $ git clone https://github.com/Shagun2002/expenses-tracker.git
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 
 ```bash
-### $ npm install 
+###  npm install 
 ```
 
 Run it
 ```bash
-### $ npm start 
+###  npm start 
 ```
