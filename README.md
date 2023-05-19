@@ -4,8 +4,7 @@ Expense Tracking application is a react web app that employs React with Hooks.
 
 #### Technologies used in the project:
 
-- React.js
-- CSS
+- ReactJS
 
 ## Software Required :
 
@@ -30,12 +29,12 @@ $ git clone https://github.com/Shagun2002/expenses-tracker.git
 --
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 
-
-###  npm install 
-
+```bash
+$  npm install 
+```
 
 Run it
-
-###  npm start 
-
+```bash
+$ npm start 
+```
 ---
